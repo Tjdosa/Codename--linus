@@ -1,9 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-</head>
+
 <?php
 	include 'includes/connection.php';
 	
@@ -21,6 +16,4 @@
 		header ('Location: index.php');
 		
 	}
-<body>
-</body>
-</html>
+?>
