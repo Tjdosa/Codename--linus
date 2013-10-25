@@ -1,0 +1,37 @@
+/* CSS Document */
+#inputName
+	{
+	width: auto%;
+	background-color: #FFFFFF;
+	background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(255,255,255,1.00)),color-stop( 100% , rgba(201,193,193,1.00)));
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(201,193,193,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(201,193,193,1.00) 100%);
+	border-radius: 0px / 10px;
+	-webkit-box-shadow: 0px 10px;
+	box-shadow: 0px 10px;
+	}
+	
+#inputDesc
+	{
+	width: 100%;
+	height: 200px;
+	background-color: #FFFFFF;
+	background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(255,255,255,1.00)),color-stop( 100% , rgba(201,193,193,1.00)));
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(201,193,193,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(201,193,193,1.00) 100%);
+	border-radius: 0px / 10px;
+	-webkit-box-shadow: 0px 10px;
+	box-shadow: 0px 10px;
+		
+	}
+	
+#div_name
+	{
+	float: left;
+		
+	}
+
+#div_name_label
+	{
+		
+	}
